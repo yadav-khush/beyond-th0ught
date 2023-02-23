@@ -1,5 +1,7 @@
 <!-- # Hola Amigos,<br> I'm Khushboo - 👋 -->
 
+<img src="bg1.png" />
+
 ## About Me: 🤗
 
 - 📚 I’m currently Working as a Blockchain frontend Developer.
