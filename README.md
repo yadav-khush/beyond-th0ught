@@ -44,12 +44,12 @@
 <details>
 <summary><h2>🔥 GitHub Stats</h2></summary>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ttejas123&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=beyond-th0ught&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 </details>
 
 <div align="right">
 
-![Github Profile Views](https://komarev.com/ghpvc/?username=ttejas123&color=181717&style=flat-square&label=Profile+Views)
+![Github Profile Views](https://komarev.com/ghpvc/?username=beyond-th0ught&color=181717&style=flat-square&label=Profile+Views)
 
 </div>
