@@ -1,6 +1,6 @@
 <!-- # Hola Amigos,<br> I'm Khushboo - 👋 -->
 
-<img src="bg1.png" />
+<img src="bg1.png" style="width:100%" />
 
 ## About Me: 🤗
 
